@@ -8,7 +8,7 @@ C# Library operation of XiaoMi Router
 And We will add instructions later
 
 
-### Test Successful Development:
+### Test Successful Device:
 小米路由器3(R3) 	
 
 MiWiFi 开发版 2.27.110

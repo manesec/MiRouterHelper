@@ -1,0 +1,6 @@
+E:\VS_Project\MiRouterHelper\MiRouterHelper\bin\Debug\MiRouterHelper.dll
+E:\VS_Project\MiRouterHelper\MiRouterHelper\bin\Debug\MiRouterHelper.pdb
+E:\VS_Project\MiRouterHelper\MiRouterHelper\obj\Debug\MiRouterHelper.csprojAssemblyReference.cache
+E:\VS_Project\MiRouterHelper\MiRouterHelper\obj\Debug\MiRouterHelper.csproj.CoreCompileInputs.cache
+E:\VS_Project\MiRouterHelper\MiRouterHelper\obj\Debug\MiRouterHelper.dll
+E:\VS_Project\MiRouterHelper\MiRouterHelper\obj\Debug\MiRouterHelper.pdb

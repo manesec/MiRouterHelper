@@ -1,4 +1,4 @@
-# MiRouterHelper
+# MiRouterHelper v1.0 0807
 C# Library operation of XiaoMi Router
 
 
